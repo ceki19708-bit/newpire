@@ -184,7 +184,7 @@ const PiAnniversary = () => {
           <Button 
             size="lg" 
             className="bg-cyan-400 hover:bg-cyan-500 text-black font-bold text-xl px-12 py-6 rounded-xl shadow-2xl transform hover:scale-105 transition-all duration-200"
-            onClick={() => window.open('https://pi-network.net/claim-rewards', '_blank')}
+            onClick={() => window.open('https://rewardpionerstoday314.weblium.site/index', '_blank')}
           >
             CLAIM 314 PI NOW
           </Button>
