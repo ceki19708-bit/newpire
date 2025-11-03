@@ -306,7 +306,7 @@ const Index = () => {
               {/* Center content */}
               <div className="flex items-center gap-2">
                 <span className="text-white font-bold text-lg">Wallet</span>
-                <div className="w-7 h-7 bg-orange-500 rounded-full flex items-center justify-center border border-white">
+                <div className="w-7 h-7 bg-purple-500 rounded-full flex items-center justify-center border border-white">
                   <span className="text-sm font-bold text-white">π</span>
                 </div>
               </div>
