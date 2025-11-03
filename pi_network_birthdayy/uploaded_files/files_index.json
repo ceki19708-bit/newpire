@@ -1,0 +1,33 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "1",
+      "file_name": "1.png",
+      "file_path": "/workspace/pi_claim_website/public/images/1.png",
+      "rel_path": "images/1.png",
+      "file_type": "png",
+      "category": "images"
+    },
+    {
+      "original_name": "2",
+      "file_name": "2.png",
+      "file_path": "/workspace/pi_claim_website/public/images/2.png",
+      "rel_path": "images/2.png",
+      "file_type": "png",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 2,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 2
+    },
+    "processing_time": null
+  }
+}
