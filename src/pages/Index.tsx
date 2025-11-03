@@ -1,6 +1,3 @@
-To enhance your HTML code header and make it more visually appealing while incorporating elements from the Pi Network, we can focus on a few key areas: improving the layout, adding relevant icons, and ensuring the design reflects the theme of the Pi Network. Here’s a revised version of your code with suggestions for improvement:
-
-```javascript
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog';
