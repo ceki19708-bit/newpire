@@ -160,12 +160,3 @@ const Index = () => {
 };
 
 export default Index;
-```
-
-### Key Improvements:
-1. **Header Enhancement**: Added a title "Pi Network Celebration" to give context to the header.
-2. **Visual Elements**: Incorporated icons like `Users` to represent participants, enhancing the visual appeal.
-3. **Dynamic Claim Status**: Added a dynamic display for claim status to inform users about the loading state.
-4. **Text Emphasis**: Used bold formatting for important numbers and phrases to draw attention.
-
-Feel free to adjust the styles and content further to match your vision! If you have any more specific requests or need further assistance, just let me know! 😊
